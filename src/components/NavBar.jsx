@@ -19,16 +19,16 @@ const NavBar = () => {
         className="px-10  transition-all top-16 duration-500 delay-100 text-center sm:w-[400px] py-6 sm:py-0 md:w-[400px] absolute sm:static lg:w-[400px] flex flex-col sm:flex-row items-end text-[15px] font-semibold space-y-2 sm:space-x-10 z-20"
       >
         <div>
-          <a href="#">Products</a>
+          <a href="/products">Products</a>
         </div>
         <div>
-          <a href="#">Prices</a>
+          <a href="/prices">Prices</a>
         </div>
         <div>
-          <a href="#">Overview</a>
+          <a href="/overview">Overview</a>
         </div>
         <div>
-          <a href="#">Contacts</a>
+          <a href="/contacts">Contacts</a>
         </div>
       </div>
       <div
