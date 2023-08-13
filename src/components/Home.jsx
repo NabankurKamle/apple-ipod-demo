@@ -30,7 +30,7 @@ const Home = () => {
         <div className="pt-40 absolute -right-4 -bottom-[142px] hidden lg:block">
           <img
             className="max-h-[700px] w-[350px] "
-            src="/sidepic.png"
+            src="/sidePic.png"
             alt="SidePic"
           />
         </div>
